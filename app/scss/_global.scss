@@ -37,6 +37,7 @@ body{
 }
 .title{
     text-align: center;
+    @include f700;
     margin-bottom: 30px;
     color: $bg;
     font-size: 36px;
